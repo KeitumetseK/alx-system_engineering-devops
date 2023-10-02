@@ -1,2 +1,3 @@
 #!/bin/bash
-sort ls -1 -d user 
+grep ocp /etc/passwd|cut -d: -f 6
+/home/ocp
