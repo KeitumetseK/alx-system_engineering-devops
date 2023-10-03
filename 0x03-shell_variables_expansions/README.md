@@ -1,1 +1,1 @@
- alias project
+alias project
