@@ -1,3 +1,2 @@
 #!/bin/bash
-grep ocp /etc/passwd|cut -d: -f 6
-/home/ocp
+cut -d ':' -f 1,6 /etc/passwd  |sort
